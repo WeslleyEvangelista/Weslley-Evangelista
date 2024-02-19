@@ -1,4 +1,4 @@
-### Hi there, I'm Weslley! 👏🏽
+### Hi there, I'm Weslley! 👋🏽
 - Software Engineering Student at the Focus College (Faculdade Focus).
 - Passionate about programming, web/mobile development and data science.
 
