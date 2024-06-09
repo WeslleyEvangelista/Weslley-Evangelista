@@ -7,6 +7,7 @@
 <div style="display: inline">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-f7e01d?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-3179c7?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/react-282b33?style=for-the-badge&logo=react&logoColor=7ee1ff" />
   <img align="center" alt="angular" src="https://img.shields.io/badge/angular-ff0132?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="node" src="https://img.shields.io/badge/node-white?style=for-the-badge&logo=nodedotjs&logoColor=75ac60" />
