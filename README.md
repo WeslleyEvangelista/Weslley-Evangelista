@@ -1,7 +1,7 @@
 ### Hi there, I'm Weslley! 👋🏽
 - Actually i'm working as a freelance Full-stack Web/Mobile Developer, creating solutions for small and medium-sized businesses.
 - Software Engineering Student at the Focus College (Faculdade Focus).
-- Passionate about programming, web/mobile development and data science.
+- Passionate about programming, Web/Mobile Development and Data Science.
 
 ## Languages & Tools 💻📱
 <div style="display: inline">
